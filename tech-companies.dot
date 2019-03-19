@@ -1,0 +1,9 @@
+digraph techcompanies {
+    size="6,6";
+    node [color=lightblue2, style=filled];
+    "Apollo" -> "Foo";
+    "Digital Equipment Corp (DEC)" -> "Foo";
+    "Hewlett-Packard (HP)" -> "Foo";
+    "Apple" -> "Bar";
+    "Microsoft" -> "Bar";
+}
