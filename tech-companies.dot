@@ -2,16 +2,17 @@ digraph techcompanies {
     size="6,6";
     node [color=lightblue2, style=filled];
     "Apollo" -> "Hewlett-Packard (HP)"; /* Founded 1980, Acquired 1989 */
-    "Digital Equipment Corp (DEC)" -> "...";
-    "Hewlett-Packard (HP)" -> "...";
+    "Digital Equipment Corp (DEC)" -> "Compaq" [label="1998"];
+    "Compaq" -> "Hewlett-Packard (HP)" [label="2002"];
     "Apple" -> "Bar";
     "Microsoft" -> "Bar";
-    "Sun Microsystems" -> "Oracle";
+    "Sun Microsystems" -> "Oracle" [label="2009"];
     "Palm" -> "3com";
     "Commodore" -> "Various";
     "Atari Inc" -> "Atari Corp" [label="1984"];
     "Atari Corp" -> "JTS Corp" [label="1996"];
     "Atari Corp" -> "Hasbro Interactive" [label="1998"];
     "Hasbro Interactive" -> "Infogrames" [label="2000"];
+    "SGI" -> "...";
 
 }
