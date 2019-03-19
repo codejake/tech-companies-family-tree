@@ -12,6 +12,6 @@ digraph techcompanies {
     "Atari Inc" -> "Atari Corp";
     "Atari Corp" -> "JTS Corp";
     "Atari Corp" -> "Hasbro Interactive";
-    "Hasbro Interactive" -> "Infogrames" [label="Foo bar"];
+    "Hasbro Interactive" -> "Infogrames" [label="2000"];
 
 }
