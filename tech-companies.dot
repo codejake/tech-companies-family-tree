@@ -8,4 +8,10 @@ digraph techcompanies {
     "Microsoft" -> "Bar";
     "Sun Microsystems" -> "Oracle";
     "Palm" -> "3com";
+    "Commodore" -> "Various";
+    "Atari Inc" -> "Atari Corp";
+    "Atari Corp" -> "JTS Corp";
+    "Atari Corp" -> "Hasbro Interactive";
+    "Hasbro Interactive" -> "Infogrames";
+
 }
