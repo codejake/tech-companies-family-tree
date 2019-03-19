@@ -9,8 +9,8 @@ digraph techcompanies {
     "Sun Microsystems" -> "Oracle";
     "Palm" -> "3com";
     "Commodore" -> "Various";
-    "Atari Inc" -> "Atari Corp";
-    "Atari Corp" -> "JTS Corp";
+    "Atari Inc" -> "Atari Corp" [label="1984"];
+    "Atari Corp" -> "JTS Corp" [label="1996"];
     "Atari Corp" -> "Hasbro Interactive" [label="1998"];
     "Hasbro Interactive" -> "Infogrames" [label="2000"];
 
