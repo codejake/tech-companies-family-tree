@@ -14,5 +14,7 @@ digraph techcompanies {
     "Atari Corp" -> "Hasbro Interactive" [label="1998"];
     "Hasbro Interactive" -> "Infogrames" [label="2000"];
     "SGI" -> "...";
+    "IBM" -> "...";
+    "Geophysical Service Inc" -> "Texas Instruments" [label="1951"]
 
 }
