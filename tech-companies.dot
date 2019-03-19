@@ -11,7 +11,7 @@ digraph techcompanies {
     "Commodore" -> "Various";
     "Atari Inc" -> "Atari Corp";
     "Atari Corp" -> "JTS Corp";
-    "Atari Corp" -> "Hasbro Interactive";
+    "Atari Corp" -> "Hasbro Interactive" [label="1998"];
     "Hasbro Interactive" -> "Infogrames" [label="2000"];
 
 }
