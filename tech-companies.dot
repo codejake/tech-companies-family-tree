@@ -13,8 +13,9 @@ digraph techcompanies {
     "Atari Corp" -> "JTS Corp" [label="1996"];
     "Atari Corp" -> "Hasbro Interactive" [label="1998"];
     "Hasbro Interactive" -> "Infogrames" [label="2000"];
-    "SGI" -> "...";
+    "Silicon Graphics Inc (SGI)" -> "Rackable Systems" [label="2009"];
     "IBM" -> "...";
     "Geophysical Service Inc" -> "Texas Instruments" [label="1951"]
+
 
 }
