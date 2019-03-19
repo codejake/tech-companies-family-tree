@@ -27,15 +27,15 @@
 <path fill="none" stroke="#000000" d="M88.9337,-215.8314C88.9337,-208.131 88.9337,-198.9743 88.9337,-190.4166"/>
 <polygon fill="#000000" stroke="#000000" points="92.4338,-190.4132 88.9337,-180.4133 85.4338,-190.4133 92.4338,-190.4132"/>
 </g>
-<!-- Foo -->
+<!-- ... -->
 <g id="node4" class="node">
-<title>Foo</title>
+<title>...</title>
 <ellipse fill="#b2dfee" stroke="#b2dfee" cx="202.9337" cy="-90" rx="27" ry="18"/>
-<text text-anchor="middle" x="202.9337" y="-85.8" font-family="Times,serif" font-size="14.00" fill="#000000">Foo</text>
+<text text-anchor="middle" x="202.9337" y="-85.8" font-family="Times,serif" font-size="14.00" fill="#000000">...</text>
 </g>
-<!-- Hewlett&#45;Packard (HP)&#45;&gt;Foo -->
+<!-- Hewlett&#45;Packard (HP)&#45;&gt;... -->
 <g id="edge3" class="edge">
-<title>Hewlett&#45;Packard (HP)&#45;&gt;Foo</title>
+<title>Hewlett&#45;Packard (HP)&#45;&gt;...</title>
 <path fill="none" stroke="#000000" d="M116.2396,-144.7542C133.7406,-133.7009 156.4233,-119.375 174.1971,-108.1494"/>
 <polygon fill="#000000" stroke="#000000" points="176.4049,-110.8947 182.9909,-102.5955 172.667,-104.9762 176.4049,-110.8947"/>
 </g>
@@ -45,9 +45,9 @@
 <ellipse fill="#b2dfee" stroke="#b2dfee" cx="316.9337" cy="-162" rx="121.2427" ry="18"/>
 <text text-anchor="middle" x="316.9337" y="-157.8" font-family="Times,serif" font-size="14.00" fill="#000000">Digital Equipment Corp (DEC)</text>
 </g>
-<!-- Digital Equipment Corp (DEC)&#45;&gt;Foo -->
+<!-- Digital Equipment Corp (DEC)&#45;&gt;... -->
 <g id="edge2" class="edge">
-<title>Digital Equipment Corp (DEC)&#45;&gt;Foo</title>
+<title>Digital Equipment Corp (DEC)&#45;&gt;...</title>
 <path fill="none" stroke="#000000" d="M289.0462,-144.3868C271.5328,-133.3258 249.0073,-119.0991 231.3874,-107.9708"/>
 <polygon fill="#000000" stroke="#000000" points="232.9969,-104.8477 222.673,-102.4669 229.259,-110.7661 232.9969,-104.8477"/>
 </g>
