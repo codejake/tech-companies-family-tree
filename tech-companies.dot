@@ -1,7 +1,7 @@
 digraph techcompanies {
     size="6,6";
     node [color=lightblue2, style=filled];
-    "Apollo" -> "HP"; /* Founded 1980, Acquired 1989 */
+    "Apollo" -> "Hewlett-Packard (HP)"; /* Founded 1980, Acquired 1989 */
     "Digital Equipment Corp (DEC)" -> "Foo";
     "Hewlett-Packard (HP)" -> "Foo";
     "Apple" -> "Bar";
